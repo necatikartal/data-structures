@@ -13,3 +13,9 @@ Data Structures, Pamukkale University.
 + [Binary Search Trees and Operations]()
 + [B Trees and Searching]()
 + [Graphs]()
+
+###Projects:
++ [The N Queens Problem]()
++ [The Binary Search Trees - Operations and Rotations]()
++ [The Huffman Coding]()
++ [The Hash Funtion]()
