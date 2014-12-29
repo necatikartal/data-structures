@@ -15,7 +15,7 @@ Data Structures, Pamukkale University.
 + [Graphs]()
 
 ###Projects:
-+ [The N Queens Problem]()
-+ [The Binary Search Trees - Operations and Rotations]()
-+ [The Huffman Coding]()
-+ [The Hash Funtion]()
++ [The N Queens Problem](https://github.com/necatikartal/N-Queens-Problem)
++ [The Binary Search Trees - Operations and Rotations](https://github.com/necatikartal/Binary-Search-Tree)
++ [The Huffman Coding](https://github.com/necatikartal/Huffman-Coding)
++ [The Hash Funtion](https://github.com/necatikartal/Hash-Function)
